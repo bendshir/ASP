@@ -11,7 +11,7 @@ import os
 from Assembly_operation import AO
 from Chromosome import Chromosome
 from ac3 import CSPSolver
-
+# ffff
 
 """
 Model assumptions:
