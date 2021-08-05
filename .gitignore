@@ -15,3 +15,4 @@ run_csp_60_constraints.csv
 run_lcs_07Jun.csv
 select_sequence.py
 X_y_csp.csv
+interactions.py
